@@ -9,4 +9,4 @@
 	url = https://github.com/marcv81/readline.git
 [submodule "proxmark3"]
 	path = proxmark3
-	url = https://github.com/Proxmark/proxmark3.git
+	url = https://github.com/mikaelfoo/proxmark3.git
