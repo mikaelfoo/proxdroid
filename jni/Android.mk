@@ -4,21 +4,21 @@ TOP_PATH := $(call my-dir)/..
 # Lib USB #
 ###########
 
-LOCAL_PATH := $(TOP_PATH)/libusb
+#LOCAL_PATH := $(TOP_PATH)/libusb
 
-include $(CLEAR_VARS)
+#include $(CLEAR_VARS)
 
-LOCAL_CFLAGS := \
--DHAVE_CONFIG_H
+#LOCAL_CFLAGS := \
+#-DHAVE_CONFIG_H
 
-LOCAL_SRC_FILES := \
-usb.c \
-error.c \
-descriptors.c \
-linux.c \
+#LOCAL_SRC_FILES := \
+#usb.c \
+#error.c \
+#descriptors.c \
+#linux.c \
 
-LOCAL_MODULE := libusb
-include $(BUILD_SHARED_LIBRARY)
+#LOCAL_MODULE := libusb
+#include $(BUILD_SHARED_LIBRARY)
 
 ###########
 # TermCap #
