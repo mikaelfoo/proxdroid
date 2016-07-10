@@ -4,9 +4,9 @@
 [submodule "termcap"]
 	path = termcap
 	url = https://github.com/marcv81/termcap.git
-[submodule "readline"]
-	path = readline
-	url = https://github.com/marcv81/readline.git
 [submodule "proxmark3"]
 	path = proxmark3
 	url = https://github.com/mikaelfoo/proxmark3.git
+[submodule "readline"]
+	path = readline
+	url = https://github.com/mikaelfoo/readline.git
