@@ -1,5 +1,6 @@
 Intro
 =====
+This is a fork and modified repo based on marcv81/proxdroid to support the latest proxmark3 v2.2.0 and android ndkv12
 
 This is the proxmark3 for Android superproject. You'll need a proxmark3 board, a rooted Android device that supports the USB host mode, and a USB OTG cable to connect them. If your Android device does not power the proxmark3 board you may need an external power supply and a Y USB cable.
 
